@@ -6,7 +6,10 @@
     - [Numbered steps](#numbered-steps)
     - [Bold and Italics](#bold-and-italics)
     - [Images](#images)
-    - [Git features](#git-features)
+    - [**Git commands**](#git-commands)
+  - [**Tell me about yourself**](#tell-me-about-yourself)
+    - [Part 1](#part-1)
+    - [Part 2](#part-2)
 
 
 ## Markdown fundamentals
@@ -30,7 +33,7 @@
 
 * Embed images using drag + drop + SHIFT
 
-### Git features
+### **Git commands**
 * "**cd**" to create directory 
 * "**mkdir**" to make a directory
 * "**git init**" to intialise the git repo
@@ -39,3 +42,23 @@
 * "**git add .**" to stage the changes
 * "**git commit -m**" to commit the changes 
 
+## **Tell me about yourself**
+### Part 1
+* Online course in "**Python for Data science, AI and Development**"
+* Internship at "**UNiDAYS**" 
+* Worked at a secondary school as part of the Administrative team
+* Hobbies = Going to the gym, and continous learining
+* Strengths/ Skills= Communication, 
+* Motivation= Technology transformative power to shape and transform industry and communities 
+
+### Part 2
+Past: 
+* Come from a background in Computer science
+* Part time Administrative staff member at a school
+
+Present:
+* Now a Spartan 
+* DevOps Engineer trainee consultant
+
+Future:
+* On way to become a DevOps Engineer
