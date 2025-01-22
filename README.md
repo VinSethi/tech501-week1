@@ -1,15 +1,7 @@
 # Week 1 learning 
 
-- [Week 1 learning](#week-1-learning)
-  - [Markdown fundamentals](#markdown-fundamentals)
-    - [Bullet points](#bullet-points)
-    - [Numbered steps](#numbered-steps)
-    - [Bold and Italics](#bold-and-italics)
-    - [Images](#images)
-    - [**Git commands**](#git-commands)
-  - [**Tell me about yourself**](#tell-me-about-yourself)
-    - [Part 1](#part-1)
-    - [Part 2](#part-2)
+## **Topics**
+*[Intro to Agile](agile-intro.md)
 
 
 ## Markdown fundamentals
