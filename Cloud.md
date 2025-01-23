@@ -74,9 +74,9 @@ Differences:
 
 5. CapEx (Capital Expenditure): Capital expenditure refers to large, upfront investments made by a business to acquire or upgrade physical assets like infrastructure, hardware, or buildings. These are considered long-term investments and are typically depreciated over time.<br>
 OpEx (Operational Expenditure): Operational expenditure refers to ongoing expenses that cover the day-to-day operations of a business. OpEx includes costs for services, subscriptions, and utilities that are paid incrementally (monthly or annually).
-1. No, migrating to the cloud is not always cheaper—it depends on several factors, including the business's specific use case, workload patterns, and how effectively resources are managed. While cloud computing offers cost-saving potential through its pay-as-you-go model and elimination of upfront investments, there are scenarios where it may become more expensive than on-premises solutions. 
+6. No, migrating to the cloud is not always cheaper—it depends on several factors, including the business's specific use case, workload patterns, and how effectively resources are managed. While cloud computing offers cost-saving potential through its pay-as-you-go model and elimination of upfront investments, there are scenarios where it may become more expensive than on-premises solutions. 
 
-2. AWS: AWS is the largest and most widely adopted cloud platform globally, offering an extensive suite of cloud services for computing, storage, databases, AI/ML, IoT, and more. It pioneered the modern cloud computing era. What makes them popular: Early Mover Advantage.
+7. AWS: AWS is the largest and most widely adopted cloud platform globally, offering an extensive suite of cloud services for computing, storage, databases, AI/ML, IoT, and more. It pioneered the modern cloud computing era. What makes them popular: Early Mover Advantage.
   Microsoft Azure: Microsoft Azure is the second-largest cloud provider, offering a broad range of services with a focus on seamless integration with Microsoft's ecosystem, making it a popular choice for enterprises.<br>
   Google Cloud Platform (GCP): Google Cloud is known for its data and analytics expertise, making it a popular choice for businesses looking to leverage big data, machine learning, and modern application architectures.
 
