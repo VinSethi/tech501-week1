@@ -11,6 +11,8 @@
 * "**git branch-M main**" change the name of the branch 
 * "**git add .**" to stage the changes
 * "**git commit -m**" to commit the changes 
+* " **git remote add origin https://github.com/VinSethi/tech501-week1.git**" to link the github repo to the local repo
+* " **git push -u origin main**" to push all the local repo into the github repo
 
 ## **Tell me about yourself**
 ### Part 1
