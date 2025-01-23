@@ -9,7 +9,7 @@
 
 
 ## Git bash section:
-* "**cd .ssh**" to bring go into section with two keys (public and private) from the local
+* "**cd .ssh**" to go into section with two keys (public and private) from the local
 * "**ls**" to bring up the two keys from the local
 * "**cat tech501-vineet-az-key.pub**" to bring the public key up and copy it to input it into Azure
 
