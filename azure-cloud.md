@@ -5,7 +5,7 @@
 3. Create Virtual Machine 
 4. Login- to login need to connect the virtual machine by using the private key and inputting the name of the file it into the Native SSH after clicking on connect. Then copy the clipboard thing into git bash and then it should allow to input commands. Adding  ~/.ssh/  will allow specific path and allow to login into virtual machine from any directory.
 
-
+* ssh -i ~/.ssh/tech501-vineet-az-key  adminuser@20.26.236.242 will allow you to login on git bash for the virtual machine
 
 
 ## Git bash section:
