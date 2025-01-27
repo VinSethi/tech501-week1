@@ -56,4 +56,12 @@ To download image curl "input url here" --output cat.jpg
 * "head -2" = display the first 2 lines of a file
 * "tail -2" = display the last 2 lines of a file
 
+## Processes
+* "ps aux" = gives all the processes use "top" for the live view of the processes- refreshed every 3 seconds
+* "sleep "&"" = The & means the process will run in the background
+* "kill -l" = softest level of kill for process
+* "kill" = medium level of kill (gracefully)
+* "kill -9" = Harshes of the kills to force the process to be killed
+* 
+
 * To reference a variable you have to use "$" before the name of it
